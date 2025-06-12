@@ -79,7 +79,7 @@ const AgroFarmLanding = () => {
   };
 
   const handleRegistrationRedirect = () => {
-  window.location.href = 'https://agrofarm-git-master-inkonios-projects.vercel.app/';
+  window.location.href = 'https://react-front-mocha.vercel.app/';
 };
 
   return (
